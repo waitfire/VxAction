@@ -19,7 +19,7 @@ import java.util.List;
  *               -- 2022/10/5
  */
 public class AllConfig {
-    public static final String VxAppId = "微信的APPID";
+    public static final String VxAppId = "ID";
     public static final String VxAppSecret = "微信的密钥";
     public static final String WeatherKey = "高德地图key";
 
