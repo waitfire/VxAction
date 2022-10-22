@@ -19,9 +19,9 @@ import java.util.List;
  *               -- 2022/10/5
  */
 public class AllConfig {
-    public static final String VxAppId = "ID";
-    public static final String VxAppSecret = "微信的密钥";
-    public static final String WeatherKey = "高德地图key";
+    public static final String VxAppId = "wx5b2862f6960884a2";
+    public static final String VxAppSecret = "a43820df36dc16c92cfcfd8a874a3348";
+    public static final String WeatherKey = "8484dba9e3ff25068c2b8ca98a70bee3";
 
     //下列所有填写的  true 为开启， false 为不开启 ，#XXXXXX是颜色16进制HEX码（不知道颜色16进制HEX码可以百度）
     //系统开关
@@ -82,7 +82,7 @@ public class AllConfig {
 
         userList.add(getUser(
                 "oOra46KEd58v_Fq43TxAP60X62E4",//扫码关注你的测试号以后，测试平台会出现TA的微信号
-                "微信消息模板ID",//要给这个人发送的模板ID
+                "XTln8u5E5Z6tAZLwe3F4xAvXPy-VvIaIfCWl2ZFADd0",//要给这个人发送的模板ID
                 "这个人的称呼",//咋称呼这个人
                 "江苏省南京市玄武区",//这个人的详细地址
                 "南京",//这个人在的城市
